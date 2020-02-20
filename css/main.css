@@ -1,0 +1,67 @@
+body {
+  background-color: #fcd8c0;
+  font-size: 20px;
+  line-height: 26px;
+  margin: 40px;
+  padding: 0;
+}
+
+h1 {
+   color: #fa8050;
+   font-family: 'Sacramento', cursive;
+   font-size: 80px;
+
+}
+
+a {
+  color: #e37932;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bf4c1f;
+  text-decoration: underline;
+}
+
+header {
+  float: left;
+  padding: 40px;
+}
+
+.content {
+  float: left;
+  width: 800px;
+  padding: 140px 20px;
+}
+
+.title {
+  font-size: 24px;
+  color: #fa8050;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  font-size: 22px;
+  color: #fa8050;
+  margin-bottom: 20px;
+}
+
+.content-box {
+  padding: 20px;
+  border: 1px dotted #fa8050;
+  margin-bottom: 20px;
+}
+
+.education-table {
+  cellpadding: 5px;
+  cellspacing: 0;
+}
+
+.education-table-cell {
+  border: 1px solid #fa8050;
+}
+
+.profile-image {
+  width: 400px;
+  height: 400px;
+}
